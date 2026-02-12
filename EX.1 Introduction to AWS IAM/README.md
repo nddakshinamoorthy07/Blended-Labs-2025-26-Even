@@ -41,9 +41,19 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Logged in using IAM sign-in URL  
 - Verified S3 access for user-1  
 - Verified EC2 read-only access for user-2  
-- Verified EC2 administrative access for user-3  
+- Verified EC2 administrative access for user-3
+
+  
 **Screenshot:**  
-(Add screenshot here)
+
+
+<img width="1006" height="532" alt="image" src="https://github.com/user-attachments/assets/d0c06328-e915-419c-bbe6-20be1f1a62db" />
+
+
+
+<img width="987" height="454" alt="image" src="https://github.com/user-attachments/assets/562e3ad2-b4c9-47c4-8b13-4a3ab00cfe9b" />
+
+
 
 
 ## Workflow
